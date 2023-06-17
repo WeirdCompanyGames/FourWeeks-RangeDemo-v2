@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: dda7142807ccf7948ade17c1a1eb72ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6584710497379038881
+    second: P90Reload_0
+  - first:
+      213: -8214205917184766524
+    second: P90Reload_1
+  - first:
+      213: -3131364296572250037
+    second: P90Reload_2
+  - first:
+      213: -1264155575829131119
+    second: P90Reload_3
+  - first:
+      213: 6239238851979599303
+    second: P90Reload_4
+  - first:
+      213: 4663218567109111618
+    second: P90Reload_5
+  - first:
+      213: 1458179989975516879
+    second: P90Reload_6
+  - first:
+      213: 3604512982358195830
+    second: P90Reload_7
+  - first:
+      213: -3312975476901745202
+    second: P90Reload_8
+  - first:
+      213: -3934446825165982139
+    second: P90Reload_9
+  - first:
+      213: -1600513894653531367
+    second: P90Reload_10
+  - first:
+      213: -1726847325569557221
+    second: P90Reload_11
+  - first:
+      213: -5092021390125641302
+    second: P90Reload_12
+  - first:
+      213: 8273692564784788256
+    second: P90Reload_13
+  - first:
+      213: 2804792104404231862
+    second: P90Reload_14
+  - first:
+      213: -3340466510333763472
+    second: P90Reload_15
+  - first:
+      213: -1419593797670923150
+    second: P90Reload_16
+  - first:
+      213: -2707452598331478007
+    second: P90Reload_17
+  - first:
+      213: 478902286552939632
+    second: P90Reload_18
+  - first:
+      213: 5656549740246646650
+    second: P90Reload_19
+  - first:
+      213: 6401572507207192571
+    second: P90Reload_20
+  - first:
+      213: -5384919351228623233
+    second: P90Reload_21
+  - first:
+      213: 4712086427498671832
+    second: P90Reload_22
+  - first:
+      213: 2277638631997310613
+    second: P90Reload_23
+  - first:
+      213: -5851008709792047439
+    second: P90Reload_24
+  - first:
+      213: 2139358624677944361
+    second: P90Reload_25
+  - first:
+      213: 6526882042553247319
+    second: P90Reload_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P90Reload_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59cfee90b86e94a0800000000000000
+      internalID: -6584710497379038881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4a423d37410e80800000000000000
+      internalID: -8214205917184766524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48587053c82b84d0800000000000000
+      internalID: -3131364296572250037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 22
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19010e99331d47ee0800000000000000
+      internalID: -1264155575829131119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd5f01ddaa369650800000000000000
+      internalID: 6239238851979599303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 22
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6b8a749417b040800000000000000
+      internalID: 4663218567109111618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c211a9fe7c3410800000000000000
+      internalID: 1458179989975516879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 22
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7ebdb57dc50230800000000000000
+      internalID: 3604512982358195830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 22
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde0bd4b52f502d0800000000000000
+      internalID: -3312975476901745202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 22
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546715645790669c0800000000000000
+      internalID: -3934446825165982139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 23
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b691bb715d9c9e0800000000000000
+      internalID: -1600513894653531367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 23
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd712b1810908e0800000000000000
+      internalID: -1726847325569557221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 23
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1dedc36818559b0800000000000000
+      internalID: -5092021390125641302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 23
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b9c04d8f02d270800000000000000
+      internalID: 8273692564784788256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 23
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a5dbfe8f9ce620800000000000000
+      internalID: 2804792104404231862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a77b486744a1d0800000000000000
+      internalID: -3340466510333763472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741a7c56f69c4ce0800000000000000
+      internalID: -1419593797670923150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 23
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9007e3ed4323d6ad0800000000000000
+      internalID: -2707452598331478007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 23
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3c10a71765a600800000000000000
+      internalID: 478902286552939632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fbab1e40a108e40800000000000000
+      internalID: 5656549740246646650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_20
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 23
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcdff3744f6d850800000000000000
+      internalID: 6401572507207192571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 23
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7614ed616ce445b0800000000000000
+      internalID: -5384919351228623233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6ffdd3a1b46140800000000000000
+      internalID: 4712086427498671832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_23
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59608e2b44ccb9f10800000000000000
+      internalID: 2277638631997310613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_24
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 23
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bed023149a0dcea0800000000000000
+      internalID: -5851008709792047439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_25
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 22
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd817955780bd10800000000000000
+      internalID: 2139358624677944361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90Reload_26
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 22
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756234503a4249a50800000000000000
+      internalID: 6526882042553247319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

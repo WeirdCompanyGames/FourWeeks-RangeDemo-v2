@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: dce7ef9907ad3ef4b8e3e240b2f6a1bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6623568210793125533
+    second: AimPistolIdle_0
+  - first:
+      213: 255327579731123961
+    second: AimPistolIdle_1
+  - first:
+      213: -4100737183614352462
+    second: AimPistolIdle_2
+  - first:
+      213: 3240136103187712399
+    second: AimPistolIdle_3
+  - first:
+      213: 6777592832819509330
+    second: AimPistolIdle_4
+  - first:
+      213: -6800976362096414112
+    second: AimPistolIdle_5
+  - first:
+      213: 94322735925654782
+    second: AimPistolIdle_6
+  - first:
+      213: -4374077045432481907
+    second: AimPistolIdle_7
+  - first:
+      213: 6331507142582470497
+    second: AimPistolIdle_8
+  - first:
+      213: 4469264392905443203
+    second: AimPistolIdle_9
+  - first:
+      213: -5780534305593486431
+    second: AimPistolIdle_10
+  - first:
+      213: 6106175490819291914
+    second: AimPistolIdle_11
+  - first:
+      213: -2002085130905272117
+    second: AimPistolIdle_12
+  - first:
+      213: -2000010159512251158
+    second: AimPistolIdle_13
+  - first:
+      213: -477054673005691673
+    second: AimPistolIdle_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AimPistolIdle_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3692b123ecb5414a0800000000000000
+      internalID: -6623568210793125533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fedb3bb41b1b8300800000000000000
+      internalID: 255327579731123961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34e6512414717c0800000000000000
+      internalID: -4100737183614352462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f890c6e6e9647fc20800000000000000
+      internalID: 3240136103187712399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b070b5c8de0e50800000000000000
+      internalID: 6777592832819509330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623a6328041e91a0800000000000000
+      internalID: -6800976362096414112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef47711570a1f4100800000000000000
+      internalID: 94322735925654782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d878ece1a182c43c0800000000000000
+      internalID: -4374077045432481907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1670a7e43380ed750800000000000000
+      internalID: 6331507142582470497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874e624944060e30800000000000000
+      internalID: 4469264392905443203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a31427fcaa67cfa0800000000000000
+      internalID: -5780534305593486431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bfa7ac14e7db450800000000000000
+      internalID: 6106175490819291914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0cc425e2a2734e0800000000000000
+      internalID: -2002085130905272117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4991f3b598e34e0800000000000000
+      internalID: -2000010159512251158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AimPistolIdle_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3e0d6d492169f0800000000000000
+      internalID: -477054673005691673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

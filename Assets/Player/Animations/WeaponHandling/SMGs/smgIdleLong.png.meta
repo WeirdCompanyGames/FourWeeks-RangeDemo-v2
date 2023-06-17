@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 3e5a73d49f5b5c34793345e9ac22edfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5150127718797584913
+    second: smgIdleLong_0
+  - first:
+      213: -705724011984189360
+    second: smgIdleLong_1
+  - first:
+      213: -6016631202627479752
+    second: smgIdleLong_2
+  - first:
+      213: -231954679152680396
+    second: smgIdleLong_3
+  - first:
+      213: 6683664562905921155
+    second: smgIdleLong_4
+  - first:
+      213: 8995500563264347541
+    second: smgIdleLong_5
+  - first:
+      213: 1163449402002612120
+    second: smgIdleLong_6
+  - first:
+      213: 1422808089988980461
+    second: smgIdleLong_7
+  - first:
+      213: -6662039094109854318
+    second: smgIdleLong_8
+  - first:
+      213: 2181976018608771286
+    second: smgIdleLong_9
+  - first:
+      213: -1366900106570186623
+    second: smgIdleLong_10
+  - first:
+      213: -8960770093862795956
+    second: smgIdleLong_11
+  - first:
+      213: -7193351709971403527
+    second: smgIdleLong_12
+  - first:
+      213: -3099896832496701396
+    second: smgIdleLong_13
+  - first:
+      213: -855211605428651202
+    second: smgIdleLong_14
+  - first:
+      213: 8130410267273889627
+    second: smgIdleLong_15
+  - first:
+      213: -333124737856274870
+    second: smgIdleLong_16
+  - first:
+      213: 808470163448065424
+    second: smgIdleLong_17
+  - first:
+      213: -7977014573359152722
+    second: smgIdleLong_18
+  - first:
+      213: 7699232258743392246
+    second: smgIdleLong_19
+  - first:
+      213: -3492787701701998842
+    second: smgIdleLong_20
+  - first:
+      213: -8004645612861625088
+    second: smgIdleLong_21
+  - first:
+      213: -7695354118729839687
+    second: smgIdleLong_22
+  - first:
+      213: 2188613811627885222
+    second: smgIdleLong_23
+  - first:
+      213: -1865963459547722062
+    second: smgIdleLong_24
+  - first:
+      213: -8633331975889952506
+    second: smgIdleLong_25
+  - first:
+      213: 8750499651285939235
+    second: smgIdleLong_26
+  - first:
+      213: 8675080552667177472
+    second: smgIdleLong_27
+  - first:
+      213: -3717019106497067664
+    second: smgIdleLong_28
+  - first:
+      213: -8193778466912966948
+    second: smgIdleLong_29
+  - first:
+      213: 1905138801145592990
+    second: smgIdleLong_30
+  - first:
+      213: 4185420144434546575
+    second: smgIdleLong_31
+  - first:
+      213: 4558579917458537543
+    second: smgIdleLong_32
+  - first:
+      213: -5152682800033384625
+    second: smgIdleLong_33
+  - first:
+      213: -2761549509492980047
+    second: smgIdleLong_34
+  - first:
+      213: -1753281490210430599
+    second: smgIdleLong_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smgIdleLong_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55d2550221788b0800000000000000
+      internalID: -5150127718797584913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058083c00c3c436f0800000000000000
+      internalID: -705724011984189360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 21
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379bd67cc1a08ca0800000000000000
+      internalID: -6016631202627479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 21
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4326d11c27ee7ccf0800000000000000
+      internalID: -231954679152680396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 21
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386bfd5228521cc50800000000000000
+      internalID: 6683664562905921155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d92322a1076dc70800000000000000
+      internalID: 8995500563264347541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 23
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f91802117652010800000000000000
+      internalID: 1163449402002612120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 22
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee58536b64deb310800000000000000
+      internalID: 1422808089988980461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 22
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29521dbadbeab83a0800000000000000
+      internalID: -6662039094109854318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 21
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d899d0afe74e10800000000000000
+      internalID: 2181976018608771286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 20
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c070689bc70de0800000000000000
+      internalID: -1366900106570186623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c454d596313f4a380800000000000000
+      internalID: -8960770093862795956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca4b65bb41c2c90800000000000000
+      internalID: -7193351709971403527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 19
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20fcaa3144faf4d0800000000000000
+      internalID: -3099896832496701396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 19
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b32a2739da124f0800000000000000
+      internalID: -855211605428651202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 19
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578c03bf0505d070800000000000000
+      internalID: 8130410267273889627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 19
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7e2ed0d0806bf0800000000000000
+      internalID: -333124737856274870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 19
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de2d78453483b00800000000000000
+      internalID: 808470163448065424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 19
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea140d27283fb4190800000000000000
+      internalID: -7977014573359152722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 21
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d0a172fa29da60800000000000000
+      internalID: 7699232258743392246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_20
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 21
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60703344710278fc0800000000000000
+      internalID: -3492787701701998842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 20
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6e7cb939c9e090800000000000000
+      internalID: -8004645612861625088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 21
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc444633c943590800000000000000
+      internalID: -7695354118729839687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_23
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 20
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a208987aa48f5e10800000000000000
+      internalID: 2188613811627885222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_24
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 21
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8ccdae14ca16e0800000000000000
+      internalID: -1865963459547722062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_25
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 20
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ee0d2f4e303880800000000000000
+      internalID: -8633331975889952506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_26
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 19
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f31a1215007970800000000000000
+      internalID: 8750499651285939235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_27
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 18
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00260a3dcc3146870800000000000000
+      internalID: 8675080552667177472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_28
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 16
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07507e5f0de7a6cc0800000000000000
+      internalID: -3717019106497067664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_29
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 17
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6686795e9d94e80800000000000000
+      internalID: -8193778466912966948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_30
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 17
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb81255a9607a10800000000000000
+      internalID: 1905138801145592990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 18
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8709c03279951a30800000000000000
+      internalID: 4185420144434546575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_32
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 19
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c78545844534f30800000000000000
+      internalID: 4558579917458537543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_33
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 18
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47bebf1b4efd78b0800000000000000
+      internalID: -5152682800033384625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_34
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 20
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b644093a510da9d0800000000000000
+      internalID: -2761549509492980047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smgIdleLong_35
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 21
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716db026c71ba7e0800000000000000
+      internalID: -1753281490210430599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

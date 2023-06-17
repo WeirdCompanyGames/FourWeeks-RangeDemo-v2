@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 6882de4a0fc120741a238b61d8e5c94f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4097557468196905390
+    second: ReloadMP5Vec_0
+  - first:
+      213: -6625193817311458793
+    second: ReloadMP5Vec_1
+  - first:
+      213: 4438675132371068879
+    second: ReloadMP5Vec_2
+  - first:
+      213: 2786250191346597460
+    second: ReloadMP5Vec_3
+  - first:
+      213: -6028052358993562960
+    second: ReloadMP5Vec_4
+  - first:
+      213: -5171221094547769477
+    second: ReloadMP5Vec_5
+  - first:
+      213: -3447093220237658361
+    second: ReloadMP5Vec_6
+  - first:
+      213: 5473058385353259025
+    second: ReloadMP5Vec_7
+  - first:
+      213: -7409246974541236400
+    second: ReloadMP5Vec_8
+  - first:
+      213: 8443432227713308993
+    second: ReloadMP5Vec_9
+  - first:
+      213: 8232794582564198388
+    second: ReloadMP5Vec_10
+  - first:
+      213: 2582388406884324785
+    second: ReloadMP5Vec_11
+  - first:
+      213: -1490827624816531008
+    second: ReloadMP5Vec_12
+  - first:
+      213: -4188503358423257179
+    second: ReloadMP5Vec_13
+  - first:
+      213: 6780229310602603310
+    second: ReloadMP5Vec_14
+  - first:
+      213: -7580597794036973366
+    second: ReloadMP5Vec_15
+  - first:
+      213: -7162940025576642326
+    second: ReloadMP5Vec_16
+  - first:
+      213: -590101337723120647
+    second: ReloadMP5Vec_17
+  - first:
+      213: 8580194759726141511
+    second: ReloadMP5Vec_18
+  - first:
+      213: -1021847958397345217
+    second: ReloadMP5Vec_19
+  - first:
+      213: -7871681952412820864
+    second: ReloadMP5Vec_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReloadMP5Vec_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea120aabec27dd830800000000000000
+      internalID: 4097557468196905390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 24
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a490f23559e04a0800000000000000
+      internalID: -6625193817311458793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 24
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7665a0487599d30800000000000000
+      internalID: 4438675132371068879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef39e69cfbaa620800000000000000
+      internalID: 2786250191346597460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 25
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2bbb6415e085ca0800000000000000
+      internalID: -6028052358993562960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 25
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77397410d12c38b0800000000000000
+      internalID: -5171221094547769477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 25
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b31ccaf67920d0800000000000000
+      internalID: -3447093220237658361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 25
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11834fd9a9534fb40800000000000000
+      internalID: 5473058385353259025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 25
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f45de1211d2990800000000000000
+      internalID: -7409246974541236400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 25
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dfe930e81d2570800000000000000
+      internalID: 8443432227713308993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 26
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7df7abd03c04270800000000000000
+      internalID: 8232794582564198388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 26
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55d60f29c76d320800000000000000
+      internalID: 2582388406884324785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 26
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a8798c248f4be0800000000000000
+      internalID: -1490827624816531008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 26
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa6ac13627fd5c0800000000000000
+      internalID: -4188503358423257179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 26
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be82282a6381e50800000000000000
+      internalID: 6780229310602603310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 26
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00155587e4cc690800000000000000
+      internalID: -7580597794036973366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 25
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a3146fff189c90800000000000000
+      internalID: -7162940025576642326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_17
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 25
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d787b5f98fc7f0800000000000000
+      internalID: -590101337723120647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 25
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74015259ca9f21770800000000000000
+      internalID: 8580194759726141511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 25
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a44122baa1d1f0800000000000000
+      internalID: -1021847958397345217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadMP5Vec_20
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 24
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a949168fa22c290800000000000000
+      internalID: -7871681952412820864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

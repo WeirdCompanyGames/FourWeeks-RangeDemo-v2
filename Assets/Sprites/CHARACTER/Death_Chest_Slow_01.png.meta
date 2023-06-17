@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 0be1296333f54c84685e5bbcab3a799f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3137217345182781652
+    second: Death_Chest_Slow_01_0
+  - first:
+      213: -2164877194052148096
+    second: Death_Chest_Slow_01_1
+  - first:
+      213: -3388752417891283852
+    second: Death_Chest_Slow_01_2
+  - first:
+      213: -4624290714272442014
+    second: Death_Chest_Slow_01_3
+  - first:
+      213: 7573583167959903123
+    second: Death_Chest_Slow_01_4
+  - first:
+      213: -2380943295736106964
+    second: Death_Chest_Slow_01_5
+  - first:
+      213: -7357914063801120377
+    second: Death_Chest_Slow_01_6
+  - first:
+      213: -7838068535648241306
+    second: Death_Chest_Slow_01_7
+  - first:
+      213: -1812465817233797019
+    second: Death_Chest_Slow_01_8
+  - first:
+      213: -5816017448551596802
+    second: Death_Chest_Slow_01_9
+  - first:
+      213: -5111979681249012355
+    second: Death_Chest_Slow_01_10
+  - first:
+      213: 8224455590482602232
+    second: Death_Chest_Slow_01_11
+  - first:
+      213: 7752502350908604
+    second: Death_Chest_Slow_01_12
+  - first:
+      213: -8588876094693335312
+    second: Death_Chest_Slow_01_13
+  - first:
+      213: -2222564928050203944
+    second: Death_Chest_Slow_01_14
+  - first:
+      213: -4837823125414758226
+    second: Death_Chest_Slow_01_15
+  - first:
+      213: 2069943365330449706
+    second: Death_Chest_Slow_01_16
+  - first:
+      213: -1032562822927083649
+    second: Death_Chest_Slow_01_17
+  - first:
+      213: 2147723245890637712
+    second: Death_Chest_Slow_01_18
+  - first:
+      213: 7760394079180299104
+    second: Death_Chest_Slow_01_19
+  - first:
+      213: 4599757343241085953
+    second: Death_Chest_Slow_01_20
+  - first:
+      213: -4033541909932856375
+    second: Death_Chest_Slow_01_21
+  - first:
+      213: -7329765908169912289
+    second: Death_Chest_Slow_01_22
+  - first:
+      213: 4652094381935051754
+    second: Death_Chest_Slow_01_23
+  - first:
+      213: 8759784878405329375
+    second: Death_Chest_Slow_01_24
+  - first:
+      213: 9172173315222075356
+    second: Death_Chest_Slow_01_25
+  - first:
+      213: -10444769139815718
+    second: Death_Chest_Slow_01_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2faf2d327d5674d0800000000000000
+      internalID: -3137217345182781652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846d2a79afc4f1e0800000000000000
+      internalID: -2164877194052148096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c08db51abb8f0d0800000000000000
+      internalID: -3388752417891283852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26957ad881833dfb0800000000000000
+      internalID: -4624290714272442014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba023c3c5ca1960800000000000000
+      internalID: 7573583167959903123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203d43ffa035fed0800000000000000
+      internalID: -2380943295736106964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898843942073e990800000000000000
+      internalID: -7357914063801120377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6693587d136993390800000000000000
+      internalID: -7838068535648241306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 7
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560dd3c21f3d8d6e0800000000000000
+      internalID: -1812465817233797019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcbb93f1fa594fa0800000000000000
+      internalID: -5816017448551596802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 17
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75532870999e09b0800000000000000
+      internalID: -5111979681249012355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 13
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e0b5d8c2232270800000000000000
+      internalID: 8224455590482602232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 13
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc0fbc1cda8b1000800000000000000
+      internalID: 7752502350908604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 13
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe95fb92be2ec880800000000000000
+      internalID: -8588876094693335312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 15
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2735d39fcd721e0800000000000000
+      internalID: -2222564928050203944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8bb73df799cdcb0800000000000000
+      internalID: -4837823125414758226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_16
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 21
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b2b3168ae9bc10800000000000000
+      internalID: 2069943365330449706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 22
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77182355999ba1f0800000000000000
+      internalID: -1032562822927083649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 22
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f092bb9ee3ecd10800000000000000
+      internalID: 2147723245890637712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_19
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 22
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b16967c4572bb60800000000000000
+      internalID: 7760394079180299104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_20
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 22
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10421e0eeee95df30800000000000000
+      internalID: 4599757343241085953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 20
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb2dc7e00bf508c0800000000000000
+      internalID: -4033541909932856375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_22
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 18
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1093c4cdb0774a90800000000000000
+      internalID: -7329765908169912289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_23
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 18
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae344d8413f8f8040800000000000000
+      internalID: 4652094381935051754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_24
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 20
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd120328fe1019970800000000000000
+      internalID: 8759784878405329375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_25
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 20
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f020b80b1a4f70800000000000000
+      internalID: 9172173315222075356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Chest_Slow_01_26
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 20
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada09ada984eadff0800000000000000
+      internalID: -10444769139815718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
